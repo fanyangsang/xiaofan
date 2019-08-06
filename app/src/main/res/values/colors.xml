@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e0e0e0</color>
+    <color name="colorPrimaryDark">#e0e0e0</color>
+    <color name="colorAccent">#e41107</color>
+
+    <color name="word_hui">#666666</color>
+    <color name="lines_color">#cccccc</color>
+    <color name="red">#e10e05</color>
+    <color name="black">#000000</color>
+    <color name="background">#f1f1f1</color>
+    <color name="background_two">#eeeeee</color>
+    <color name="red_two">#df0f03</color>
+    <color name="red_three">#e00f04</color>
+    <color name="transparent">#00000000</color>
+    <color name="gray1">#cccccc</color>
+    <color name="gray2">#efefef</color>
+    <color name="line_color">#e6e6e6</color>
+    <color name="textblack">#393939</color>
+    <color name="black2">#505050</color>
+    <color name="background_gray2">#ededed</color>
+    <color name="text_grays">#969696</color>
+    <color name="blue">#1472dc</color>
+    <color name="orange">#fd7927</color>
+
+
+
+    <color name="background_bg">#eaf4f4</color>
+    <!-- //底部tab的背景颜色 -->
+    <color name="tab_bottom_background">#FFFFFF</color>
+    <!-- tab 字体颜色 -->
+    <color name="blacktab">#7A7F83</color>
+
+    <!-- //每个gridview的背景颜色 -->
+    <color name="item_background">#FEFEFE</color>
+    <color name="textgray">#979797</color>
+    <!-- 点击后的灰色 -->
+    <color name="baishen">#F5F5F5</color>
+    <color name="clickgray">#C6C6C6</color>
+
+    <color name="jv_ask">#FF811B</color>
+    <color name="black_scan_pic_bg">#000000</color>
+
+
+    <color name="shenlan">#00BFBA</color>
+    <!--字体绿 -->
+    <color name="blue_mo">#688883</color>
+    <!-- 黄色 -->
+    <color name="yellow">#EDA43B</color>
+    <!-- 上传证书提醒深黄色 -->
+    <color name="shenghuang">#8A6D3B</color>
+
+    <!-- 深蓝色 -->
+    <color name="dark_blue">#070D1D</color>
+
+    <color name="jvse">#FC8450</color>
+
+    <!-- 整体风格的白 -->
+    <color name="title_white">#FFFFFF</color>
+    <!-- 整体风格的绿 -->
+    <color name="all_green">#00b46a</color>
+    <color name="login_green">#1DA538</color>
+    <!-- 整体风格的蓝和绿变成一个颜色 -->
+    <color name="all_blue">#00b46a</color>
+    <color name="download_green">#99E1D5</color>
+    <color name="download_dark_green">#1F6D5F</color>
+    <color name="light_green">#F0FFFA</color>
+
+    <color name="chengse">#F37E31</color>
+    <!--  粉色-->
+    <color name="pink">#F5A1B3</color>
+    <!--  解除绑定的红色 -->
+    <color name="unbind_red">#FF5353</color>
+    <!-- 我的界面   设置界面  深黑色 -->
+    <color name="mine_settingblack">#4D4D4D</color>
+
+    <color name="tu_huang">#FFCC00</color>
+    <color name="select_bac">#F7F8FC</color>
+    <color name="dan_huang">#FFDE9A</color>
+    <color name="dan_black">#695B3F</color>
+    <color name="green">#66AF45</color>
+    <color name="lighter_gray">#F0F0F0</color>
+    <color name="window_bg">#88838B8B</color>
+    <color name="crop_background">#737373</color>
+
+    <!-- 主题颜色 -->
+    <color name="top_color">#18B4ED</color>
+    <color name="image_checked_bg">#66000000</color>
+
+    <!-- 菜单栏 按钮文字颜色 -->
+    <color name="topbar_btn_text_color">#ffffff</color>
+
+    <!-- 返回按钮 字体颜色 -->
+    <color name="back_color_noclick">#ffff</color>
+    <color name="back_color_click">#8fff</color>
+    <color name="gray_bg">#cccccc</color>
+    <!-- 智能处方下面的灰色 -->
+    <color name="intelligence_gray">#ECEDF1</color>
+
+    <color name="grey_24h">#E7EBEC</color>
+    <color name="Grey">#BDBDBD</color>
+    <color name="grey">#848484</color>
+    <!--  分类左边淡灰色 -->
+    <color name="light_grey">#E5E5E5</color>
+    <color name="white_ru">#EFF3F6</color>
+
+    <!-- 二维码用到的颜色 -->
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color> <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#00000000</color>
+    <color name="capture_text_cover_bg">#99535353</color>
+    <color name="seek_bar_text">#fff6f6f6</color>
+
+</resources>
